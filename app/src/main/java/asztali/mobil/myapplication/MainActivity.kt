@@ -42,5 +42,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
     }
+    // On create
 
 }
